@@ -1,7 +1,7 @@
 {
   "id": "planet-lockstep-sync",
   "name": "Planet Lockstep Sync",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "minAppVersion": "1.13.0",
   "description": "Strong-consistency two-way Obsidian vault sync for Planet / Lockstep servers with atomic manifest reconciliation, end-to-end encryption, and full integrity verification.",
   "author": "Planet / Lockstep",
